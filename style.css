@@ -115,6 +115,7 @@ nav ul li{
     position: relative;
     left: -17px;
     font-size: 13px;
+    width: 308px;
 }
 
 .songItem img{
